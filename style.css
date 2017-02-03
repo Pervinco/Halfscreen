@@ -1,0 +1,24 @@
+div {
+padding: 30 pix;
+}
+#button {
+    background-image: linear-gradient(#44dd88, #2eb489);
+    background-color: #44dd88
+    box-shadow: 0px 0px 5px 0px #c32cb;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    /* display: inline-block;
+    height:30px
+    width: 50px; */
+    font-family: sans-serif;
+    font-weight: italic;
+    text-shadow: 0px 1px 0px grey;
+    font-size: 19pt;
+    text-decoration: none;
+    letter-spacing 1pt;
+}
+#button:hover {
+    background-image: linear-gradient(#61eb9f, #44dd88);
+    background-color: #61eb9f;
+}
